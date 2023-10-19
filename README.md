@@ -1,2 +1,1 @@
-# react_task6
-my react tasks
+# mern-react-task-6
